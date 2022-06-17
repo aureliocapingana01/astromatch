@@ -1,4 +1,4 @@
-import axios from 'axios';
+ import axios from 'axios';
 import React, { useState, useEffect } from 'react';
 import { AiOutlineClear } from 'react-icons/ai';
 import { List, CardProfile, Image } from './style';
